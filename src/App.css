@@ -1,0 +1,9 @@
+@import '~materialize-css/dist/css/materialize.css';
+@import 'https://fonts.googleapis.com/icon?family=Material+Icons';
+
+#mainSection{
+    margin: 20px auto;
+}
+
+table td, table th{ text-align: center}
+.progress{margin: 0}
